@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-03T15:05:57 IST" name="Default suite" finished-at="2022-05-03T15:06:08 IST" duration-ms="11364">
+    <groups>
+    </groups>
+    <test started-at="2022-05-03T15:05:57 IST" name="Default test" finished-at="2022-05-03T15:06:08 IST" duration-ms="11364">
+      <class name="testmaven.com.Maven2demo.TestRun2">
+        <test-method is-config="true" signature="runtest1()[pri:0, instance:testmaven.com.Maven2demo.TestRun2@5f058f00]" started-at="2022-05-03T15:05:57 IST" name="runtest1" finished-at="2022-05-03T15:06:00 IST" duration-ms="3178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runtest1 -->
+        <test-method signature="runtest()[pri:0, instance:testmaven.com.Maven2demo.TestRun2@5f058f00]" started-at="2022-05-03T15:06:00 IST" name="runtest" finished-at="2022-05-03T15:06:07 IST" duration-ms="7185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runtest -->
+        <test-method is-config="true" signature="runtest2()[pri:0, instance:testmaven.com.Maven2demo.TestRun2@5f058f00]" started-at="2022-05-03T15:06:07 IST" name="runtest2" finished-at="2022-05-03T15:06:08 IST" duration-ms="958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runtest2 -->
+      </class> <!-- testmaven.com.Maven2demo.TestRun2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
